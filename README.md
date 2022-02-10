@@ -10,10 +10,6 @@
 - [6. Citation](#6-citation)
 - [7. Reference](#7-reference)
 
-- [Data files](#data-files)
-    - [Massive Registration](#massive-registration)
-    - [xFraud](#xfraud)
-
 
 # Introduction
 Code for the paper submission: "Modelling graph dynamics in fraud detection with ``Attention"".
